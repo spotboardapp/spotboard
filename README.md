@@ -1,5 +1,6 @@
 <img src="https://spotboard.app/img/spotboard.png" alt="Spotboard" />
 ---
+
 # Spotboard
 
 Micro-billboard Platform
