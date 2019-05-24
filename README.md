@@ -1,8 +1,8 @@
-<img src="https://spotboard.app/img/spotboard.png" alt="Spotboard" />
+![Spotboard](https://spotboard.app/img/spotboard.png)
 
 # Spotboard
 
-Micro-billboard Platform
+Micro-billboard Marketing Platform
 
 **Homeowners** get paid for advertising on their front lawn.
 
